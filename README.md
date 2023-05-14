@@ -1,7 +1,7 @@
 # Planner
 Page enables users to plan tasks. It is possible to mark done tasks and delete them.  
 
-https://miloszcur.github.io/Planner/
+[https://miloszcur.github.io/Planner/](https://miloszcur.github.io/Planer/)
 
 ## Technology
 Project created with: 
