@@ -1,9 +1,82 @@
 html {
     box-sizing: border-box;
+
 }
 
 *,
 ::after,
 ::before {
     box-sizing: inherit;
+}
+
+body {
+    margin: auto;
+    margin-top: 100px;
+    max-width: 600px;
+    min-width: 400px;
+    color: black;
+    background-position: center;
+    background-size: auto;
+    background-image: url("./img/sky-3499982.jpg");
+}
+
+.containerMain {
+    margin-bottom: 30px;
+}
+
+.containerMain__half {
+    background-color: white;
+    margin-bottom: -15px;
+}
+
+.constainerMain__header {
+    padding: 15px;
+}
+
+.js-form {
+    display: flex;
+    padding: 15px;
+}
+
+.js-addTask {
+    flex-grow: 2;
+}
+
+.js-form__button {
+    background-color: #0B659D;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-left: 20px;
+}
+
+.js-list {
+    list-style-type: none;
+    padding: 15px;
+}
+
+
+.js-list__li {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.js-done {
+    background-color: white;
+    border: none;
+    font-size: 20px;
+}
+
+.js-remove {
+    background-color: white;
+    border: none;
+    font-size: 20px;
+
+}
+
+.js-span {
+    font-size: 20px;
+    flex-grow: 3;
+    margin: auto;
+    margin-left: 10px;
 }

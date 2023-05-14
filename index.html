@@ -12,14 +12,26 @@
 </head>
 
 <body>
-    <form class="js-form">
-        <input type="text" class="js-addTask">
-        <button>Dodaj zadanie</button>
-    </form>
-
-
-    <ul class="js-list"></ul>
-
+    <h1 class="mainHeader">Lista zadań</h1>
+    <div class="containerMain">
+        <div class="containerMain__half">
+            <h2 class="constainerMain__header">Dodaj nowe zadanie</h2>
+        </div>
+        <div class="containerMain__half">
+            <form class="js-form">
+                <input type="text" class="js-addTask" placeholder="Co jest do zrobienia?">
+                <button class="js-form__button">Dodaj zadanie</button>
+            </form>
+        </div>
+    </div>
+    <div class="containerMain">
+        <div class="containerMain__half">
+            <h2 class="constainerMain__header">Lista zadań</h2>
+        </div>
+        <div class="containerMain__half">
+            <ul class="js-list"></ul>
+        </div>
+    </div>
 </body>
 
 </html>
