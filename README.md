@@ -10,4 +10,4 @@ Project created with:
 * JavaScript
 
 ## Website view
-<img src="https://github.com/MiloszCur/ExchangeOffice/blob/9f04b8c507a81e0bda982c0819c1ee2ddd736a78/img/screen.png">
+<img src="[https://github.com/MiloszCur/ExchangeOffice/blob/9f04b8c507a81e0bda982c0819c1ee2ddd736a78/img/screen.png](https://github.com/MiloszCur/Planer/blob/main/img/tloStrona.png)">
